@@ -2,9 +2,9 @@
 NYC's Gambian Restaurant 
 -------------------------------------------------
 ### Domoro 
-- it means eating or food in Mandinka, a common language spoke in The Gambia.
+- refers to eating or food in Mandinka, a common language spoke in The Gambia.
   
-This is a mock restaurant site based in NYC showcasing Gambian cuisine and culture. With this project I'm able to showcase my heritage and leverage my technical skills. 
+This is a mock restaurant site based in NYC showcasing Gambian cuisine and culture. By creating this web app, I'm able to showcase my heritage and leverage my technical skills. 
 
 ## 2026 Redesign 
 - Currently in Progress
