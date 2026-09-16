@@ -26,7 +26,8 @@ Brand Palette
 - ![Static Badge](https://img.shields.io/badge/%23842B2B-%20?style=for-the-badge&logoColor=%23842B2B&labelColor=%23FFFFFF&color=%23842B2B)
 ![Static Badge](https://img.shields.io/badge/%234A1D1D-%20?style=for-the-badge&logoColor=%234A1D1D&color=%234A1D1D)
  **Primary Color Palette:** `#842B2B`,`#4A1D1D` — Used for main logo accents and UI elements.
-- ![#FFFFFF](https://placeholder.com+) **Accent White:** `#FFFFFF` — Used for highlights.
+- ![Static Badge](https://img.shields.io/badge/%23FFFFFF-%20?style=for-the-badge&logoColor=%23FFFFFF&labelColor=black&color=%23FFFFFF)
+ **Accent White:** `#FFFFFF` — Used for highlights.
 
 Typography
 -  **Headings, Subheadings & Nav:** `Playfair Display` (Serif)
