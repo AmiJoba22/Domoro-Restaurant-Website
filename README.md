@@ -8,6 +8,9 @@ This is a mock restaurant site based in NYC showcasing Gambian foods and culture
 
 ### Logo:
 
+!(/my-react-app/public/assets/domoro.imgs/Domoro2.png)
+!(/my-react-app/public/assets/domoro.imgs/Dom_final_logo.png)
+
 ### Icons:
 
 ### Branding Colors:
