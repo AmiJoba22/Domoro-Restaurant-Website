@@ -13,6 +13,7 @@ This is a mock restaurant site based in NYC showcasing Gambian foods and culture
 <img width="300" height="100" alt="Domoro2" src="https://github.com/user-attachments/assets/ab10b0a5-8de5-4700-8635-210d47f9f17d" />
 
 ### Icons:
+
 <img width="200" height="200" alt="login" src="https://github.com/user-attachments/assets/bd584727-de75-453b-bc82-928adfb0d0c7" />
 
 <img width="200" height="200" alt="cart" src="https://github.com/user-attachments/assets/f3dd8960-28b0-4888-acd6-49cdea0279a7" />
@@ -20,6 +21,10 @@ This is a mock restaurant site based in NYC showcasing Gambian foods and culture
 <img width="200" height="200" alt="call" src="https://github.com/user-attachments/assets/dcac84b7-4b18-4c5a-ac71-c9654c4ebc82" />
 
 ### Branding Colors:
+
+- ![#842B2B](https://placeholder.com+) **Primary Red:** `#842B2B` — Used for main logo accents.
+- ![#4A1D1D](https://placeholder.com+) **Secondary Red:** `#4A1D1D` — Used for UI elements.
+- ![#FFFFFF](https://placeholder.com+) **Accent White:** `#FFFFFF` — Used for highlights.
 
 ### Figma Prototype:
 
