@@ -23,7 +23,9 @@ This is a mock restaurant site based in NYC showcasing Gambian foods and culture
 ### Brand Design System:
 
 Brand Palette
-- ![#842B2B](https://placeholder.com+)![#842B2B](https://placeholder.com+) **Primary Color Palette:** `#842B2B`,`#4A1D1D` — Used for main logo accents and UI elements.
+- ![Static Badge](https://img.shields.io/badge/%23842B2B-%20?style=for-the-badge&logoColor=%23842B2B&labelColor=%23FFFFFF&color=%23842B2B)
+![Static Badge](https://img.shields.io/badge/%234A1D1D-%20?style=for-the-badge&logoColor=%234A1D1D&color=%234A1D1D)
+ **Primary Color Palette:** `#842B2B`,`#4A1D1D` — Used for main logo accents and UI elements.
 - ![#FFFFFF](https://placeholder.com+) **Accent White:** `#FFFFFF` — Used for highlights.
 
 Typography
