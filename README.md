@@ -20,10 +20,15 @@ This is a mock restaurant site based in NYC showcasing Gambian foods and culture
 
 <img width="200" height="200" alt="call" src="https://github.com/user-attachments/assets/dcac84b7-4b18-4c5a-ac71-c9654c4ebc82" />
 
-### Branding Colors:
+### Brand Design System:
 
-- ![#842B2B](https://placeholder.com+)![#842B2B](https://placeholder.com+) **Primary Color Pallete:** `#842B2B`,`#4A1D1D` — Used for main logo accents and UI elements.
+Brand Palette
+- ![#842B2B](https://placeholder.com+)![#842B2B](https://placeholder.com+) **Primary Color Palette:** `#842B2B`,`#4A1D1D` — Used for main logo accents and UI elements.
 - ![#FFFFFF](https://placeholder.com+) **Accent White:** `#FFFFFF` — Used for highlights.
+
+Typography
+-  **Headings, Subheadings & Nav:** `Playfair Display` (Serif)
+-  **Paragraph & Body Text:** `Lora` (Serif)
 
 ### Figma Prototype:
 
