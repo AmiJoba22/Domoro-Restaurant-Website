@@ -46,18 +46,11 @@ Typography
 
 ### Incoming Tech Stack
 
-#### Frontend
-
 - React
 - Vite
 - Typescript
 - Tailwind CSS
-
-#### Backend
-
 - Node.js
-- Express (API)
-- PostgreSQL
 
 ---
 
