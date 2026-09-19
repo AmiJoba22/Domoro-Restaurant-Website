@@ -35,6 +35,10 @@ Typography
 -  **Paragraph & Body Text:** `Lora` (Serif)
 
 ### Figma Prototype:
+- Figma Prototype in progress. View the new home page design preview:
+
+<img width="716" height="691" alt="Screenshot 2026-09-19 at 1 17 13 AM" src="https://github.com/user-attachments/assets/ee5944cc-b497-46d9-b201-f78f6f554a22" />
+
 
 ## 2026 Rebuild
 
