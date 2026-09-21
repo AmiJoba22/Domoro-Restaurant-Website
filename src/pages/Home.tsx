@@ -27,7 +27,7 @@ export default function Home() {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-sm sm:max-w-none">
           
-          <button className="w-full sm:w-auto bg-orange-600 hover:bg-orange-500 text-white font-bold py-3.5 px-8 rounded-lg shadow-lg transform transition active:scale-95 duration-200">
+          <button className="w-full sm:w-auto bg-[#842b2b] hover:bg-[#4a1d1d] text-white font-bold py-3.5 px-8 rounded-lg shadow-lg transform transition active:scale-95 duration-200">
             Order Now
           </button>
           
