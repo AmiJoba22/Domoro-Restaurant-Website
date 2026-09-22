@@ -1,11 +1,20 @@
 function Menu() {
   return (
     <div>
-      <h1>About Our Gambian Restaurant</h1>
-      <p>Authentic flavors from the smiling coast in the heart of NYC.</p>
+
+
+   <div className="bg-nav-domo py-20 px-10 text-center border-b border-white sm:text-3xl">
+    <h1 className="font-domo-head text-white"> View Our Menu</h1> 
+   </div>
+
+    <div>
+    <h2 className="font-domo-head text-center py-15 text-white border-white/5 sm:text-2xl">Meals & Dishes</h2> 
+   </div>
+
+
     </div>
   );
 }
 
-// THIS IS THE MISSING LINE:
+
 export default Menu; 
