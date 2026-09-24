@@ -32,11 +32,9 @@ function Menu() {
           className="text-white font-domo-head bg-domo-bg rounded-xl p-2 px-5 cursor-pointer font-semibold shadow-md transition hover:opacity-90 active:scale-85"
         > Dessert
         </button>
-
-
    </div>
 
-
+  
     </div>
   );
 }
