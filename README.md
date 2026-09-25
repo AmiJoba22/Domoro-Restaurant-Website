@@ -4,7 +4,7 @@
 
 This is a mock restaurant site based in NYC showcasing Gambian foods and culture.
 
-## Design: Wireframing & Prototyping
+## Design: Mockups & Prototypes
 
 ### Logo:
 
@@ -34,8 +34,8 @@ Typography
 -  **Headings, Subheadings & Nav:** `Playfair Display` (Serif)
 -  **Paragraph & Body Text:** `Lora` (Serif)
 
-### Figma Prototype:
-- Figma Prototype in progress. View the new home page design preview:
+### Figma Mockup:
+- Figma Mockup/Prototype in progress. View the new home page design preview:
 
 <img width="716" height="691" alt="Screenshot 2026-09-19 at 1 17 13 AM" src="https://github.com/user-attachments/assets/ee5944cc-b497-46d9-b201-f78f6f554a22" />
 
