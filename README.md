@@ -4,6 +4,8 @@
 
 This is a mock restaurant site based in NYC showcasing Gambian foods and culture.
 
+<img width="516" height="391" alt="Screenshot 2026-09-19 at 1 17 13 AM" src="https://github.com/user-attachments/assets/ee5944cc-b497-46d9-b201-f78f6f554a22" />
+
 ## Problem
 While Gambian food is deeply loved within The Bronx's large diaspora community, dedicated Gambian restaurant websites are rare. This makes it difficult for local foodies to discover the cuisine and hard for members of the community to easily find or order from these businesses online.
 
