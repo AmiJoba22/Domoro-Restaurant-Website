@@ -4,6 +4,14 @@
 
 This is a mock restaurant site based in NYC showcasing Gambian foods and culture.
 
+## Problem
+While Gambian food is deeply loved within The Bronx's large diaspora community, dedicated Gambian restaurant websites are rare. This makes it difficult for local foodies to discover the cuisine and hard for members of the community to easily find or order from these businesses online.
+
+Additionally, diners frequently look at digital menus to check for ingredients and allergen information, like peanut warnings, which are vital since peanuts are a staple in traditional cooking. Without a modern, clear website, it is challenging for people to safely find these details, navigate the menu, or locate the restaurant.
+
+## Solution
+Domoro is a custom web application designed to give this rich culinary tradition the modern digital home it deserves. The site features an interactive menu with a 'Learn More' button under every dish. This feature gives diners instant access to full ingredient breakdowns and clear allergy warnings without cluttering the main screen. It provides a smooth, trustworthy ordering experience for the local community while making the menu fully accessible to anyone looking to explore the cuisine.
+
 ## Design: Mockups & Prototypes
 
 ### Logo:
