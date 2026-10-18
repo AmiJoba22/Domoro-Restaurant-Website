@@ -14,6 +14,9 @@ Additionally, diners frequently look at digital menus to check for ingredients a
 ## Solution
 Domoro is a web application designed to give Gambian traditional dishes the modern digital home it deserves. The site features an interactive menu with a 'Learn More' button under every dish. This feature gives diners instant access to full ingredient breakdowns and clear allergy warnings without cluttering the main screen. It provides a smooth ordering experience for the local community while making the menu accessible to anyone looking to explore the cuisine.
 
+<img width="478" height="627" alt="Screenshot 2026-10-17 at 9 10 14 PM" src="https://github.com/user-attachments/assets/f9c0a9b3-46be-4159-ae5d-6ecb1b606ce1" />
+
+
 ## Design: Mockups & Prototypes
 
 ### Logo:
@@ -48,6 +51,8 @@ Typography
 - Figma Mockup/Prototype in progress. View the new home page design preview:
 
 <img width="716" height="691" alt="Screenshot 2026-09-19 at 1 17 13 AM" src="https://github.com/user-attachments/assets/ee5944cc-b497-46d9-b201-f78f6f554a22" />
+
+<img width="1156" height="579" alt="Screenshot 2026-10-17 at 9 14 40 PM" src="https://github.com/user-attachments/assets/d5aa2fb0-3c7b-44c4-8708-3d30a1784364" />
 
 
 ## 2026 Rebuild
