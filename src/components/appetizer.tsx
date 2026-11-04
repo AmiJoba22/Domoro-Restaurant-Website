@@ -7,8 +7,11 @@ export default function Appetizer() {
 <div>
 
     
-    <p></p>
-    <button></button>
+ <div className="flex flex-row">
+  <div className="basis-64">01</div>
+  <div className="basis-64">02</div>
+  <div className="basis-64">03</div>
+</div>
 
    </div>
 
