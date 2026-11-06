@@ -1,3 +1,6 @@
+import {Link} from 'react-router-dom';
+
+
 export default function Home() {
     return (
     
@@ -27,13 +30,17 @@ export default function Home() {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-sm sm:max-w-none">
           
+          <Link to= "/order">
           <button className="w-full sm:w-auto bg-[#842b2b] hover:bg-[#4a1d1d] text-white font-bold py-3.5 px-8 rounded-lg shadow-lg transform transition active:scale-95 duration-200">
             Order Now
           </button>
+          </Link>
           
+          <Link to="/menu">
           <button className="w-full sm:w-auto bg-white/10 hover:bg-white/20 text-white font-bold py-3.5 px-8 rounded-lg border border-white/30 backdrop-blur-sm transform transition active:scale-95 duration-200">
             See Menu
           </button>
+          </Link>
 
         </div>
 
