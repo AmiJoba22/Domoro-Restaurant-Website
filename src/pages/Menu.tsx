@@ -14,25 +14,32 @@ function Menu() {
    <div className=" md:gap-6 p-5"> 
 
         <button 
-          className="text-white font-domo-head bg-domo-bg rounded-xl p-2 px-5 cursor-pointer font-semibold shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d] 
+          className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d] 
           active:bg-[#4a1d1d]"
         > Appetizers 
         </button>
 
         <button 
-          className="text-white font-domo-head bg-domo-bg rounded-xl p-2 px-5 cursor-pointer font-semibold shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
+          className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
         > Meals
         </button>
 
          <button 
-          className="text-white font-domo-head bg-domo-bg rounded-xl p-2 px-5 cursor-pointer font-semibold shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
+          className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
         > Drinks
         </button>
 
         <button 
-          className="text-white font-domo-head bg-domo-bg rounded-xl p-2 px-5 cursor-pointer font-semibold shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
+          className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
         > Dessert
         </button>
+   </div>
+
+   <div className="menu-cta text-center sm:text-2xl text-white font-domo-body">
+
+    <h2> Came To A Decison? Place Your Order Now!
+    </h2>
+
    </div>
 
   
