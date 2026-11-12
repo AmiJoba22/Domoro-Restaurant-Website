@@ -1,4 +1,8 @@
+
+import { useState } from "react";
+import Appetizer from "../components/appetizer";
 function Menu() {
+  const [isVisible, setIsVisible] = useState<boolean>(false);
   return (
     <div>
 
@@ -13,7 +17,7 @@ function Menu() {
 
    <div className=" md:gap-6 p-5"> 
 
-        <button 
+        <button onClick={() => setIsVisible((prev) => !prev)}
           className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d] 
           active:bg-[#4a1d1d]"
         > Appetizers 
@@ -33,6 +37,8 @@ function Menu() {
           className="text-white font-domo-body bg-domo-bg rounded-xl p-2 px-5 cursor-pointer  shadow-md transition hover:opacity-90 active:scale-85 hover:bg-[#4a1d1d]"
         > Dessert
         </button>
+
+        {isVisible && <Appetizer />}
    </div>
 
    <div className="menu-cta text-center sm:text-2xl text-white font-domo-body">
